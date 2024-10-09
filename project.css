@@ -1,0 +1,1033 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    
+}
+
+
+
+.navbutton{
+    float: right;
+    padding-top: 0%;
+}
+nav{
+    background-color: #fff;
+    width: auto;
+    height: 50px;
+    padding: 1%;
+    position: sticky;  
+    top: 0; 
+    
+}
+
+.firstnavbutton{
+    background-color:rgb(168, 20, 20); 
+    height: 40px;
+    width: 190px;
+    float: right;
+    color: white;
+    border-radius: 8px;
+    font-size: large;
+    border: none;
+    margin-right: 80px;
+   
+
+}
+.firstnavbutton:hover{
+    
+    cursor: pointer;
+}
+
+.jvimage{
+    margin-left: 80px;
+}
+
+.solarandvideo{
+    
+    height: 480px;
+    width: 1200px;
+    padding: 2%;
+    display: flex;
+    flex-direction: row;
+    margin-left: 3%;
+   
+}
+.solartextdiv{
+    
+    height: 450px;
+    width: 500px;
+    padding: 24px;
+}
+
+.videodiv{
+    margin-top: 3%;
+    height: 333px;
+    width: 582px;
+    
+}
+.videotube{
+    
+    box-shadow: 0px 10px 15px 0px ;
+    
+}
+  
+ 
+h1{
+    font-size: 55px;
+    color: darkslategrey
+}
+p{
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkslategrey;
+}
+.ntext{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkslategrey
+}
+.widdestbutton{
+    width: 500px;
+    height: 70px;
+    background-color:rgb(168, 20, 20);
+    color: #fff;
+    font-size: large;
+    border: none;
+    display: grid;
+    align-items: center;
+    padding-inline: 8px;
+
+    span, img {
+        grid-area: 1 / -1;
+    }
+
+    img {
+        justify-self: end;
+    }
+}   
+
+.widdestbutton{
+    cursor: pointer;
+}
+
+.section2{
+    
+    height: 200px;
+    width: 1200px;
+    padding: 2%;
+    margin-left: 3%;
+    display: flex;
+    flex-direction: row;
+
+}
+
+.noord{
+    
+    height: 120px;
+    width: 250px;
+}
+.trustpilot{
+    
+    height: 120px;
+    width: 280px;
+    padding: 0%;
+}
+.pvmagazine{
+    
+    height: 120px;
+    width: 380px;
+}
+
+.photovoltaik{
+    
+    height: 100px;
+    width: 370px;
+    padding-top: 2%;
+    color: grey;
+}
+.photovoltaik:hover{
+    color: gold;
+    cursor: pointer;
+    
+}
+.photo:hover{
+    opacity: 1;
+
+    cursor: pointer;
+}
+
+.p3{
+    font-size: 22px;
+}
+
+.section3{
+    
+    height: 300px;
+    width: auto;
+    padding: 1%;
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(252, 248, 248); 
+  
+}
+
+.first200{
+    
+    height: 120px;
+    width: 280px;
+    margin: auto;
+    padding: 24px;
+
+}
+.first100{
+    
+    height: 120px;
+    width: 280px;
+    margin: auto;
+    padding: 24px;
+}
+
+.first25{
+    
+    height: 120px;
+    width: 280px;
+    margin: auto;
+    padding: 24px;
+}
+
+.second25{
+    
+    height: 120px;
+    width: 280px;
+    margin: auto;
+    padding: 24px;
+}
+
+.wearespecial{
+    text-align: center;
+    background-color: rgb(252, 248, 248);
+    width: auto;
+    height: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 55px;
+    color: darkslategrey
+
+}
+
+.numbercount{
+    text-align: center;
+    font-size: 55px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.clients4counts{
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 19px;
+    text-align: center;
+    color: darkslategrey;
+}
+
+.write{
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 35px;
+    text-align: center;
+    padding-top:  7%;
+    color: darkslategrey;
+}
+
+.section4{
+    
+    height: 250px;
+    width: auto;
+    padding-left: 9%;
+    padding-right: 7%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+
+.whychooseus{
+    
+    height: 180px;
+    width: 480px;
+    padding: 24px;
+    font-family: Arial, Helvetica, sans-serif; 
+    color: darkslategrey;
+    
+
+}
+
+.textinsection4{
+    
+    height: 180px;
+    width: 480px;
+    padding: 24px;
+
+
+}
+
+.line1{
+    margin: auto;
+    
+    height: 50px;
+    width: 500px;
+
+
+}
+.line{
+    color: black;
+}
+.section5{
+    
+    height: 250px;
+    width: auto;
+    padding-left: 9%;
+    padding-right: 7%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between; 
+}
+
+.ourservice{
+    
+    height: 180px;
+    width: 480px;
+    padding: 24px;
+    font-family: Arial, Helvetica, sans-serif; 
+    color: darkslategrey
+}
+
+.textinsection5{
+    
+    height: 180px;
+    width: 480px;
+    padding: 24px;
+}
+
+.section6{
+    
+    height: 250px;
+    width: auto;
+    padding-left: 9%;
+    padding-right: 7%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between; 
+}
+
+.whatyouget{
+    
+    height: 180px;
+    width: 480px;
+    padding: 24px;
+    font-family: Arial, Helvetica, sans-serif; 
+    color: darkslategrey;
+}
+
+.contactbut{
+    
+    height: 80px;
+    width: 380px;
+    margin: auto;
+    padding: 24px;
+    padding-left: 9%;
+
+}
+.contak:hover{
+    cursor:pointer
+}
+
+.contak{
+    width: 300px;
+    height: 70px;
+    background-color:rgb(168, 20, 20);
+    color: #fff;
+    font-size: large;
+    border: none;
+    display: flex;
+    flex-direction: row;
+    padding: 24px;
+}
+
+.greatersign{
+    size: large;
+}
+
+
+.theysay{
+    
+    height: 210px;
+    width: 600px;
+    
+    animation-name: slideshow;
+    animation-duration: 1s;
+    animation-delay: 1s;
+    animation-fill-mode: alternate;
+    animation-play-state: running;
+    
+    
+}
+
+.largeesttext{
+    font-size: 160px;
+    font-weight: 500;
+    font-family: fantasy;
+    opacity: 6%;
+
+}
+
+@keyframes slideshow{
+    from{transform: translateX(0%); 
+
+    }
+
+    to{transform:translateX(10%);
+        display: inline-block;
+
+    }
+}
+
+.section7{
+   
+    height: 350px;
+    width: auto;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.seewhat{
+    
+    height: 180px;
+    width: 480px;
+    padding: 24px;
+    font-family: Arial, Helvetica, sans-serif; 
+    color: darkslategrey;
+    padding-left: 6%;
+}
+
+.textsinsection7{
+    
+    height: 320px;
+    width: 700px;
+   
+
+}
+
+.seetextfont{
+    color: darkslategrey;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 45px;
+    font-weight: 600;
+
+}
+
+.wrapper{
+    border: 1px solid black;
+    height: 240px;
+    width: 650px;
+    margin-top: 9%;
+   
+}
+
+.quotemarkimage{
+    position: relative;
+    top: -10px;
+    left: -15px;
+    background-color: #fff;
+}
+
+.quotemarkimagebottom{
+    position: relative;
+    bottom: -75px;
+    right: -630px;
+    background-color: #fff;
+    transform: rotate(180deg);
+}
+
+.section8{
+    
+    height: 350px;
+    width: auto;
+    display: flex;
+    flex-direction: row;
+}
+
+.section8{
+    
+    height: 300px;
+    width: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;  
+    margin-left: 9%;
+    margin-right: 9%;
+    padding: 24px;
+    
+}
+
+.starone{
+    
+    height: 250px;
+    width: 500px;   
+    padding: 24px;
+}
+
+.startwo{
+  
+    height: 250px;
+    width: 500px;
+    padding: 24px;
+
+}
+
+.textwithstar{
+    font-family: Arial, Helvetica, sans-serif; 
+    color: darkslategrey;
+    font-size: large;
+}
+
+.blockletter{
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: large;
+    color: black;
+}
+
+.quotemark2{
+    position: relative;
+    top: -90px;
+    left: -29px;
+    background-color: #fff;
+    opacity: 10%;
+}
+
+.empty{
+    
+    height: 250px;
+    width: auto;
+        
+}
+footer{
+    
+    height: 40px;
+    width: auto;  
+    text-align: center; 
+    color: #fff; 
+    background-color: rgb(83, 85, 85);
+    padding-top: 2%;
+    border: none;
+}
+
+@media only screen and (max-width:400px){
+    .nav{
+        background-color: #fff;
+        width: auto;
+        height: 30px;
+        padding: 1%;
+        position: sticky;  
+        top: 0; 
+        
+    }
+    .firstnavbutton{
+        background-color:rgb(168, 20, 20); 
+        height: 30px;
+        width: 80px;
+        float: right;
+        color: white;
+        border-radius: 7px;
+        font-size: small;
+        border: none;
+        margin-right: 30px;
+    
+    }
+
+    .jvimage{
+        margin-left: 30px;
+        width: 150px;
+        height: 35px;
+    }
+    .solarandvideo{
+    
+        height: 560px;
+        width: 700px;
+        padding: 2%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+       
+       
+    }
+    .solartextdiv{
+    
+        height: 225px;
+        width: 300px;
+        padding: 12px;
+    }
+    
+    .videodiv{
+        
+        height: 223px;
+        width: 310px;
+        
+    }
+    .videotube{
+        height: 222px;
+        width: 330px;
+    }
+    h1{
+        font-size: 35px;
+        color: darkslategrey;
+    }
+    p{
+        font-size: 19px;
+        font-family: Arial, Helvetica, sans-serif;
+        color: darkslategrey;
+    }
+    .ntext{
+        font-size: 13px;
+        font-family: Arial, Helvetica, sans-serif;
+        color: darkslategrey;
+    }
+    .widdestbutton{
+        width: 300px;
+        height: 35px;
+        background-color:rgb(168, 20, 20);
+        color: #fff;
+        font-size: medium;
+        border: none;
+    
+    }   
+    
+    .widdestbutton{
+        cursor: pointer;
+    }
+    
+    .section2{
+        
+        height: 400px;
+        width: auto;
+        padding: 1%;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        align-items: center;
+    }
+    
+    .noord{
+       
+        height: 60px;
+        width: 130px;
+    }
+    .noordimg{
+        width:120px;
+        height:40px;
+    }
+    .trustpilot{
+        
+        height: 90px;
+        width: 141px;
+        
+    }
+    .trustpilotimg{
+        width:140px;
+        height:70px;
+    }
+    .pvmagazine{
+       
+        height: 120px;
+        width: 143px;
+    }
+    .pvmagimg{
+        width:140px;
+        height:40px;
+    }
+    
+    .photovoltaik{
+        
+        height: 50px;
+        width: 170px;
+        color: grey;
+    }
+    .photovoltaik:hover{
+        color: gold;
+        cursor: pointer;
+        
+    }
+    .photo{
+        width:160px;
+        height:30px;  
+    }
+    .photo:hover{
+        opacity: 1;
+        cursor: pointer;
+    }
+    .wearespecial{
+        text-align: center;
+        background-color: rgb(252, 248, 248);
+        width: auto;
+        height: 100px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 35px;
+        color: darkslategrey
+    
+    }
+    .write{
+        font-family: Arial, Helvetica, sans-serif; 
+        font-size: 21px;
+        text-align: center;
+        padding-top:  7%;
+        color: darkslategrey
+    }
+    
+    
+    .section3{
+        
+        height: 450px;
+        width: auto;
+        padding: 1%;
+        display: flex;
+        flex-direction: column;
+        background-color: rgb(252, 248, 248); 
+      
+    }
+    
+    .first200{
+        
+        height: 120px;
+        width: 190px;
+        margin: auto;
+        padding: 12px;
+    
+    }
+    .first100{
+        
+        height: 120px;
+        width: 190px;
+        margin: auto;
+        padding: 12px;
+    }
+    
+    .first25{
+        
+        height: 120px;
+        width: 190px;
+        margin: auto;
+        padding: 12px;
+    }
+    
+    .second25{
+        
+        height: 120px;
+        width: 190px;
+        margin: auto;
+        padding: 12px;
+    }
+    .numbercount{
+        text-align: center;
+        font-size: 30px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    .clients4counts{
+        font-family: Arial, Helvetica, sans-serif; 
+        font-size: 12px;
+        text-align: center;
+        color: darkslategrey;
+    }
+    
+    .write{
+        font-family: Arial, Helvetica, sans-serif; 
+        font-size: 20px;
+        text-align: center;
+        padding-top:  7%;
+        color: darkslategrey;
+    }
+    .section4{
+        
+        height: 380px;
+        width: auto;
+        display: flex;
+        flex-direction: column;
+        
+        
+       
+    }
+    
+    .whychooseus{
+       
+        height: 130px;
+        width:auto;
+
+        font-family: Arial, Helvetica, sans-serif; 
+        color: darkslategrey
+        
+    
+    }
+    
+    .textinsection4{
+        
+        height: 140px;
+        width: auto;
+       
+    
+    }
+    .line1{
+        
+        margin-left: 11%;
+        height: 30px;
+        width: auto;
+    }
+
+    .line{
+        color: black;
+    }
+
+    .section5{
+        
+        height: 350px;
+        width: auto;
+        display: flex;
+        flex-direction: column;
+        
+    }
+    
+    .ourservice{
+       
+        height: 180px;
+        width: auto;
+        padding: 12px;
+        font-family: Arial, Helvetica, sans-serif; 
+        color: darkslategrey
+    }
+    
+    .textinsection5{
+        
+        height: 180px;
+        width: auto;
+        padding: 12px;
+    }
+    
+    
+    .textinsection5{
+        
+        height: 180px;
+        width: auto;
+        padding: 12px;
+    }
+    
+    .section6{
+        
+        height: 250px;
+        width: auto;
+        padding-left: 9%;
+        padding-right: 7%;
+        display: flex;
+        flex-direction: column;
+        
+    }
+    
+    .whatyouget{
+        
+        height: 180px;
+        width: auto;
+        padding: 24px;
+        font-family: Arial, Helvetica, sans-serif; 
+        color: darkslategrey;
+    }
+    
+.contactbut{
+    
+    height: 80px;
+    width: 380px;
+    margin: auto;
+    padding: 24px;
+    padding-left: 9%;
+
+}
+
+.contak{
+    width: 300px;
+    height: 70px;
+    background-color:rgb(168, 20, 20);
+    color: #fff;
+    font-size: large;
+    border: none;
+    display: flex;
+    flex-direction: row;
+    padding: 24px;
+}
+
+
+
+.greatersign{
+    size: large;
+}
+
+
+.theysay{
+    
+    height: 100px;
+    width: 350px;
+    
+    animation-name: slideshow;
+    animation-duration: 1s;
+    animation-delay: 1s;
+    animation-fill-mode: alternate;
+    animation-play-state: running;
+    
+    
+}
+
+.largeesttext{
+    font-size: 70px;
+    font-weight: 300;
+    font-family: fantasy;
+    opacity: 6%;
+}
+
+@keyframes slideshow{
+    from{transform: translateX(0%); 
+
+    }
+
+    to{transform:translateX(10%);
+        display: inline-block;
+
+    }
+}
+
+.section7{
+    
+    height: 450px;
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.seewhat{
+    
+    height: 250px;
+    width: auto;
+    padding: 12px;
+    font-family: Arial, Helvetica, sans-serif; 
+    color: darkslategrey;
+    padding-left: 6%;
+}
+
+.textsinsection7{
+    
+    height: 320px;
+    width: auto;
+   
+
+}
+
+.seetextfont{
+    color: darkslategrey;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+
+}
+
+.wrapper{
+    border: 1px solid black;
+    height: 180px;
+    width: 300px;
+    margin-left: 5%;
+    padding: 1%;
+    
+   
+}
+
+.quotemarkimage{
+    position: relative;
+    top: -10px;
+    left: -15px;
+    background-color: #fff;
+}
+
+.quotemarkimagebottom{
+    position: relative;
+    bottom: -45px;
+    right: -280px;
+    background-color: #fff;
+    transform: rotate(180deg);
+}
+
+.section8{
+    
+    height: 800px;
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    
+    
+}
+.starpicture{
+    height: 60px;
+    width: 90px;
+    margin-left: -25%;
+    
+    
+
+}
+
+.starone{
+    
+    height: 350px;
+    width: auto;   
+    
+}
+
+.startwo{
+  
+    height: 350px;
+    width: auto;
+    
+
+}
+
+.textwithstar{
+   
+    font-family: Arial, Helvetica, sans-serif; 
+    color: darkslategrey;
+    font-size: medium;
+}
+
+.blockletter{
+   
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: small;
+    color: black;
+}
+
+.quotemark2{
+    position: relative;
+    top: -90px;
+    left: -29px;
+    background-color: #fff;
+    opacity: 10%;
+}
+
+.empty{
+    
+    height: 200px;
+    width: auto;
+        
+}
+footer{
+    
+    height: 40px;
+    width: auto;  
+    text-align: center; 
+    color: #fff; 
+    background-color: rgb(83, 85, 85);
+    padding-top: 2%;
+    border: none;
+}
+   
+    
+}
+
